@@ -1,0 +1,36 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+*.pyo
+*.pyd
+*.pkl
+
+# Virtual env
+venv/
+.env/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_save
+*.nbconvert.ipynb
+
+# Arquivos temporários
+*.log
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+
+# Saídas de imagens/arquivos
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.tiff
+tp1/output/*
+
+!tp1/output/.gitkeep
