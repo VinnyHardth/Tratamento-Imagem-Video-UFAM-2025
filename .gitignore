@@ -34,3 +34,4 @@ Thumbs.db
 tp1/output/*
 
 !tp1/output/.gitkeep
+!tp1/inputs/*
