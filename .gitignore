@@ -32,6 +32,7 @@ Thumbs.db
 *.bmp
 *.tiff
 tp1/output/*
+tp2/videos/*
 
 !tp1/output/.gitkeep
 !tp1/inputs/*
