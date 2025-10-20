@@ -1,0 +1,246 @@
+video_id,frame,notes
+anime1, 34, jump_cut
+anime1, 96, jump_cut
+anime1, 131, jump_cut
+anime1, 186, jump_cut
+anime1, 214, jump_cut
+anime1, 244, jump_cut
+anime1, 276, jump_cut
+anime1, 327, jump_cut
+anime1, 405, jump_cut
+anime1, 441, jump_cut
+anime1, 490, jump_cut
+anime1, 539, jump_cut
+anime1, 586, jump_cut
+anime1, 646, jump_cut
+anime1, 686, jump_cut
+anime1, 723, jump_cut
+anime1, 768, jump_cut
+anime1, 783, jump_cut
+anime1, 815, jump_cut
+anime1, 886, jump_cut
+anime1, 980, fadeout
+anime1, 1029, jump_cut
+anime1, 1081, jump_cut
+anime1, 1129, jump_cut
+anime1, 1184, jump_cut
+anime1, 1238, jump_cut
+anime1, 1275, jump_cut
+anime1, 1313, jump_cut
+anime1, 1364, jump_cut
+anime1, 1414, jump_cut
+anime1, 1460, jump_cut
+anime1, 1552, jump_cut
+anime1, 1586, jump_cut
+anime1, 1622, jump_cut
+anime1, 1683, jump_cut
+anime1, 1723, jump_cut
+anime1, 1782, jump_cut
+anime1, 1827, jump_cut
+anime1, 1869, jump_cut
+anime1, 1957, jump_cut
+anime1, 2027, jump_cut
+anime2, 133, jump_cut
+anime2, 243, jump_cut
+anime2, 354, jump_cut
+anime2, 621, scene_change
+anime2, 774, jump_cut
+anime2, 840, jump_cut
+anime2, 909, jump_cut
+anime2, 967, jump_cut
+anime2, 1011, jump_cut
+anime2, 1131, jump_cut
+anime2, 1206, jump_cut
+anime2, 1235, jump_cut
+anime2, 1298, jump_cut
+anime2, 1366, jump_cut
+anime2, 1429, jump_cut
+anime2, 1509, jump_cut
+anime2, 1560, jump_cut
+anime2, 1623, jump_cut
+movie1, 46, jump_cut
+movie1, 115, jump_cut
+movie1, 247, jump_cut
+movie1, 348, jump_cut
+movie1, 393, jump_cut
+movie1, 441, jump_cut
+movie1, 480, jump_cut
+movie1, 503, jump_cut
+movie1, 527, jump_cut
+movie1, 589, jump_cut
+movie1, 615, jump_cut
+movie1, 647, jump_cut
+movie1, 689, jump_cut
+movie1, 707, jump_cut
+movie1, 732, jump_cut
+movie1, 757, jump_cut
+movie1, 787, jump_cut
+movie1, 809, jump_cut
+movie1, 828, jump_cut
+movie1, 900, jump_cut
+movie1, 942, jump_cut
+movie1, 956, jump_cut
+movie1, 975, jump_cut
+movie1, 999, jump_cut
+movie1, 1019, jump_cut
+movie1, 1066, jump_cut
+movie1, 1085, jump_cut
+movie1, 1118, jump_cut
+movie1, 1150, jump_cut
+movie1, 1169, jump_cut
+movie1, 1200, jump_cut
+movie1, 1236, jump_cut
+movie1, 1286, jump_cut
+movie1, 1364, jump_cut
+movie1, 1400, jump_cut
+movie1, 1445, jump_cut
+movie1, 1460, jump_cut
+movie1, 1500, jump_cut
+movie1, 1525, jump_cut
+movie1, 1546, jump_cut
+movie1, 1572, jump_cut
+movie1, 1594, jump_cut
+movie1, 1613, jump_cut
+movie1, 1634, jump_cut
+movie1, 1652, jump_cut
+movie1, 1692, jump_cut
+movie1, 1788, jump_cut
+movie1, 1971, jump_cut
+movie1, 2026, jump_cut
+movie1, 2056, jump_cut
+movie1, 2073, jump_cut
+movie1, 2090, jump_cut
+movie1, 2115, jump_cut
+movie1, 2159, jump_cut
+movie1, 2192, jump_cut
+movie1, 2234, jump_cut
+movie1, 2277, jump_cut
+movie1, 2299, jump_cut
+movie1, 2327, jump_cut
+movie1, 2349, jump_cut
+movie1, 2377, jump_cut
+movie1, 2444, jump_cut
+movie1, 2500, jump_cut
+movie1, 2524, jump_cut
+movie1, 2548, jump_cut
+movie1, 2600, jump_cut
+movie1, 2630, jump_cut
+movie1, 2647, jump_cut
+movie1, 2668, jump_cut
+movie1, 2688, jump_cut
+movie1, 2709, jump_cut
+movie1, 2740, jump_cut
+movie1, 2772, jump_cut
+movie1, 2792, jump_cut
+movie1, 2831, jump_cut
+movie2, 164, jump_cut
+movie2, 175, jump_cut
+movie2, 253, jump_cut
+movie2, 319, jump_cut
+movie2, 363, jump_cut
+movie2, 380, jump_cut
+movie2, 419, jump_cut
+movie2, 431, jump_cut
+movie2, 471, jump_cut
+movie2, 518, jump_cut
+movie2, 537, jump_cut
+movie2, 571, jump_cut
+movie2, 608, jump_cut
+movie2, 672, jump_cut
+movie2, 849, jump_cut
+movie2, 910, jump_cut
+music1, 169,jump_cut
+music1, 773,jump_cut
+music1, 798,jump_cut
+music1, 860,jump_cut
+music1, 938,jump_cut
+music1, 1013,jump_cut
+music1, 1063,jump_cut
+music1, 1210,jump_cut
+music1, 1267,jump_cut
+music1, 1324,jump_cut
+music1, 1416,jump_cut
+music1, 1438,jump_cut
+music1, 1466,jump_cut
+music1, 1518,jump_cut
+music1, 1579,jump_cut
+music1, 1625,jump_cut
+music1, 1689,jump_cut
+music1, 1717,jump_cut
+music1, 1738,jump_cut
+music1, 1763,jump_cut
+music1, 1847,jump_cut
+music1, 1884,jump_cut
+music1, 1918,jump_cut
+music1, 1956,jump_cut
+music1, 2015,jump_cut
+music1, 2054,jump_cut
+music1, 2101,jump_cut
+music1, 2200,jump_cut
+music1, 2250,jump_cut
+music1, 2288,jump_cut
+music1, 2346,jump_cut
+music1, 2414,jump_cut
+music1, 2446,jump_cut
+music1, 2473,jump_cut
+music1, 2549,jump_cut
+music1, 2581,jump_cut
+music1, 2610,jump_cut
+music1, 2640,jump_cut
+music1, 2684,jump_cut
+music1, 2706,jump_cut
+music1, 2743,jump_cut
+music1, 2755,jump_cut
+music1, 2787,jump_cut
+music1, 2825,jump_cut
+music1, 2882,jump_cut
+music1, 2914,jump_cut
+music1, 2958,jump_cut
+music2, 93, jump_cut
+music2, 130, jump_cut
+music2, 181, fadeout
+music2, 256, jump_cut
+music2, 299, jump_cut
+music2, 347, fade_in_fade_out
+music2, 402, fade_in_fade_out
+music2, 450, jump_cut
+music2, 523, jump_cut
+music2, 568, jump_cut
+music2, 653, jump_cut
+music2, 698, jump_cut
+music2, 778, jump_cut
+music2, 822, jump_cut
+music2, 866, jump_cut
+music2, 951, jump_cut
+music2, 1083, jump_cut
+music2, 1120, jump_cut
+music2, 1213, jump_cut
+music2, 1258, jump_cut
+music2, 1302, jump_cut
+music2, 1352, jump_cut
+music2, 1407, jump_cut
+music2, 1465, jump_cut
+music2, 1525, jump_cut
+music2, 1570, jump_cut
+music2, 1623, jump_cut
+music2, 1647, jump_cut
+music2, 1702, jump_cut
+music2, 1758, jump_cut
+music2, 1804, jump_cut
+music2, 1864, jump_cut
+music2, 1900, jump_cut
+music2, 2087, jump_cut
+music2, 2298, jump_cut
+music2, 2335, jump_cut
+music2, 2372, jump_cut
+music2, 2464, jump_cut
+music2, 2526, jump_cut
+music2, 2579, jump_cut
+music2, 2626, jump_cut
+music2, 2683, jump_cut
+music2, 2734, jump_cut
+music2, 2812, jump_cut
+music2, 2880, jump_cut
+music2, 2921, jump_cut
+music2, 2980, jump_cut
+
